@@ -3,7 +3,6 @@ import urllib.parse
 
 consumer_key = "Your Consumer Key"
 consumer_secret = "Your Consumer Secret"
-auth = tweepy.OAuth1UserHandler(consumer_key,consumer_secret)
 url = input("Input The URL after Redirect : ")
 url_parse = urllib.parse.parse_qs(url)
 
