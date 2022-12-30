@@ -1,7 +1,7 @@
 import tweepy
 
 Consumer_Key = "Your Consumer Key"
-Consumer_Secret = "Consumer Secret"
+Consumer_Secret = "Your Consumer Secret"
 Access_Token = "your access_token"
 Access_Token_Secret = "your access_token_secret"
 
